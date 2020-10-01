@@ -1,4 +1,4 @@
-![Hi](https://raw.githubusercontent.com/achuanya/achuanya/master/images/Hi.gif)
+![Hi](https://github.com/achuanya/achuanya/raw/master/images/Hi.gif)
 
 
 ### Hi there 👋!
