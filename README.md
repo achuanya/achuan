@@ -4,6 +4,4 @@
 
 ### Hi there 👋!
 
-### I'm achuan
-
-### I'm WEB back-end engineer!
+I'm achuan，I'm a Web Developer!
