@@ -1,5 +1,4 @@
-![Hi](https://github.com/achuanya/achuanya/raw/master/images/Hi.gif)
-![Hello](https://github.com/godcrampy/godcrampy/raw/master/hello.gif)
+![Hi](https://github.com/achuanya/achuanya/raw/master/Hi.gif)
 
 
 ### Hi there 👋!
