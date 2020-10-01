@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://achuan.io">
-    <img src="https://raw.githubusercontent.com/achuanya/achuanya/master/images/Hi.gif" />
-  </a>
-</p>
+![Hi](https://raw.githubusercontent.com/achuanya/achuanya/master/images/Hi.gif)
+
 
 ### Hi there 👋!
 
